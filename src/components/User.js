@@ -29,7 +29,7 @@ function User() {
         <p className="user__info">
           <LocationOnIcon /> Lieu de naissance: Tarbes
         </p>
-        <p className="user__rqth">
+        <p className="user__info">
           <AccessibilityIcon /> RQTH sans aménagement de poste
         </p>
       </div>
