@@ -15,7 +15,7 @@ const dataFormations = [
     id: 3,
     title: "Ajusteur - Monteur de structures d'aéronefs",
     date: "2012",
-    location: "AFPA => Bordeaux-Bègles",
+    location: "AFPA => Bègles",
   },
   {
     id: 4,
