@@ -8,15 +8,18 @@ export const dataExperiences = [
     missions: [
       {
         id: 1,
-        title: "Todoc : application de gestion de tâches (Mise en place BDD SQLite Room)",
+        title:
+          "Todoc : application de gestion de tâches (Mise en place BDD SQLite Room)",
       },
       {
         id: 2,
-        title: "Go4Lunch : application collaborative pour recherche restaurant (authentification, back-end Firebase, Retrofit, Api Google maps/places, tests unitaires et instrumentalisés)",
+        title:
+          "Go4Lunch : application collaborative pour recherche restaurant (authentification, back-end Firebase, Retrofit, Api Google maps/places, tests unitaires et instrumentalisés)",
       },
       {
         id: 3,
-        title: "RealEstateManager : application collaborative pour agents immobiliers (SQLite Room, Api Google, Retrofit, Méthode de conception MVVM, KOTLIN, tests unitaires et instrumentalisés)",
+        title:
+          "RealEstateManager : application collaborative pour agents immobiliers (SQLite Room, Api Google, Retrofit, Méthode de conception MVVM, KOTLIN, tests unitaires et instrumentalisés)",
       },
     ],
   },
@@ -29,7 +32,8 @@ export const dataExperiences = [
     missions: [
       {
         id: 1,
-        title: "Réalisations en méthodes agiles de projets utilisant HTML, CSS, Bootstrap, JAVASCRIPT, REACT, NODE.JS",
+        title:
+          "Réalisations en méthodes agiles de projets utilisant HTML, CSS, Bootstrap, JAVASCRIPT, REACT, NODE.JS",
       },
     ],
   },
@@ -69,7 +73,6 @@ export const dataExperiences = [
         id: 2,
         title: "Relation Client",
       },
-
     ],
   },
   {
@@ -81,13 +84,13 @@ export const dataExperiences = [
     missions: [
       {
         id: 1,
-        title: "Contrôle non destructif matière avant expédition chez les sous-traitants",
+        title:
+          "Contrôle non destructif matière avant expédition chez les sous-traitants",
       },
       {
         id: 2,
         title: "Débit des matériaux nécessaire aux ateliers",
       },
-
     ],
   },
   {
@@ -105,7 +108,6 @@ export const dataExperiences = [
         id: 2,
         title: "Classes => 31ème Régiment du génie - Castel-Sarrazin",
       },
-
     ],
   },
   {
@@ -127,7 +129,6 @@ export const dataExperiences = [
       //   id: 3,
       //   title: "Chauffeur",
       // },
-
     ],
   },
 ]

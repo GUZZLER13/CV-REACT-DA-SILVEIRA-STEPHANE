@@ -21,7 +21,7 @@ const DarkMode = () => {
     body.classList.add(lightTheme)
   }
 
-  const switchTheme = e => {
+  const switchTheme = (e) => {
     if (theme === darkTheme) {
       body.classList.replace(darkTheme, lightTheme)
       e.target.classList.remove(clickedClass)
@@ -40,7 +40,7 @@ const DarkMode = () => {
     <button
       className={theme === "dark" ? clickedClass : ""}
       id="darkMode"
-      onClick={e => switchTheme(e)}
+      onClick={(e) => switchTheme(e)}
     >
       {themeMode === "light" || theme === "light" ? (
         <Brightness2OutlinedIcon />

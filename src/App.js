@@ -6,15 +6,12 @@ import Cursus from "./components/FormationsExperiences"
 import DarkMode from "./components/DarkMode"
 
 function App() {
-
   return (
-
     <div className="App">
       <div className="grid__container">
         <div className="sidebar">
           <div className="actions">
             <DarkMode />
-
           </div>
           <User />
           <Skills />
@@ -41,7 +38,6 @@ function App() {
       {/* Ligth & Dark mode */}
       {/* Export PDF (react-html2pdf) */}
     </div>
-
   )
 }
 
